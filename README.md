@@ -1,1 +1,3 @@
-# Neural_Machine_Translation
+# Neural Machine Translation
+
+Machine Translation using RNN
